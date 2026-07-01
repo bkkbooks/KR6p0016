@@ -1,0 +1,88 @@
+canonical_identifier: bkk:krp/KR6p0016/X/v1
+canonical_location: https://kanripo.org/bkk/KR6p0016/X/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 阿彌陀經句解
+  identifiers:
+    krp: KR6p0016
+    cbeta: X22n0421
+    cbeta_old_id: X22n0421
+    authorityid: CA0000016
+    json_key: X0421
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X22/X22n0421.xml
+    old_id: X22n0421
+  edition:
+    short: X
+assets:
+  parts:
+  - {seq: 0, filename: KR6p0016_000-X.yaml, hash: 'sha256:0ff86fb603d6117beec7347bc2da949cd7755ca713fee955ac1f0b5d52bf0251'}
+  - {seq: 1, filename: KR6p0016_001-X.yaml, hash: 'sha256:dcb0a2655bc35ab6f7358565a3c7f7fb54af3177fe84aaeb97f35ae9151c584e'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6p0016_000-X.markers.yaml, hash: 'sha256:c293deab5717610b222cdb822833f25ddd31c0b6b27c839232856e698153095e'}
+  - {seq: 1, role: markers, filename: assets/KR6p0016_001-X.markers.yaml, hash: 'sha256:b641dd85d65e42d27c863fd161cef922c2a548c5a4d2f616f29825aad42dbea2'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR6p0016_X_000-mulu-1
+    span:
+    - front
+    - 0
+    - 0
+  label: No. 421-A 阿彌陀經句解序
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6p0016_X_000-mulu-2
+    span:
+    - front
+    - 304
+    - 304
+  label: 阿彌陀經句解
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0016_X_001-juan-start
+    span:
+    - body
+    - 0
+    - 11367
+  label: 佛說阿彌陀經句解
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0016_X_001-mulu-1
+    span:
+    - body
+    - 11051
+    - 11051
+  label: 拔一切業障根本得生淨土神呪
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0016_X_001-mulu-2
+    span:
+    - body
+    - 11245
+    - 11245
+  label: 呪字音切
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0016_X_001-mulu-3
+    span:
+    - body
+    - 11269
+    - 11269
+  label: 後敘
+  type: mulu
+  level: 1
+hash: sha256:3378b8088f72be47a2b080ccd5004fc0d6ac83e5201bae143eb0563af3530abe
