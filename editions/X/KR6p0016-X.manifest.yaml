@@ -19,17 +19,17 @@ metadata:
     short: X
 assets:
   parts:
-  - {seq: 0, filename: KR6p0016_000-X.yaml, hash: 'sha256:0ff86fb603d6117beec7347bc2da949cd7755ca713fee955ac1f0b5d52bf0251'}
+  - {seq: 0, filename: KR6p0016_000-X.yaml, hash: 'sha256:aa04b9f7c2a136160fd9f16e25f520ca69531b00ca0f1eac3b24cd55271de330'}
   - {seq: 1, filename: KR6p0016_001-X.yaml, hash: 'sha256:dcb0a2655bc35ab6f7358565a3c7f7fb54af3177fe84aaeb97f35ae9151c584e'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6p0016_000-X.markers.yaml, hash: 'sha256:c293deab5717610b222cdb822833f25ddd31c0b6b27c839232856e698153095e'}
+  - {seq: 0, role: markers, filename: assets/KR6p0016_000-X.markers.yaml, hash: 'sha256:6eee3561bf6a1562e464f7799c72244e9edd974a9b1e51a4fe07841ade01453c'}
   - {seq: 1, role: markers, filename: assets/KR6p0016_001-X.markers.yaml, hash: 'sha256:b641dd85d65e42d27c863fd161cef922c2a548c5a4d2f616f29825aad42dbea2'}
 table_of_contents:
 - ref:
     seq: 0
     marker_id: KR6p0016_X_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: No. 421-A 阿彌陀經句解序
@@ -39,7 +39,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6p0016_X_000-mulu-2
     span:
-    - front
+    - body
     - 304
     - 304
   label: 阿彌陀經句解
@@ -85,4 +85,4 @@ table_of_contents:
   label: 後敘
   type: mulu
   level: 1
-hash: sha256:3378b8088f72be47a2b080ccd5004fc0d6ac83e5201bae143eb0563af3530abe
+hash: sha256:5b5c9ffaa20a8df51f6d68ca55dae32adeccb4cc9ff956f91f4556619c22849b
